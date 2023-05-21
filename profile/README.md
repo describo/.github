@@ -2,4 +2,4 @@
 
 See: [https://describo.github.io/](https://describo.github.io/)
 
-![Describo](./describo-1.png)
+![Describo](profile/describo-1.png)
